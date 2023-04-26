@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+
+}
+
+body {
+    margin: 20px;
+}
+
+main {
+    width: 1200px;
+    background-color:aliceblue;
+}
+
+.headline {
+    color: chocolate;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.subheader {
+    font-size: 18px;
+    color: brown;
+    margin: 20px;
+}
+
+#panda {
+    width: 200px;
+}
+
+.intro {
+    margin: 30px;
+}
+
+.main-text {
+    font-style: italic;
+    margin-top: 15px;
+    color:brown;
+}
+
+.bald-idea {
+    margin: 20px 160px; 
+    font-weight: bold;  
+    color:crimson;
+}
+
+#text-more {
+    text-align: right;
+    margin: 45px;
+    color:darkmagenta;
+}
+
+p{
+    color: green;
+    margin-top: 5px;
+}
+
+#text {
+    text-align: center;
+}
+
+footer {
+    width: 1200px;
+    background-color: dimgray;
+    color: darkorange;
+    padding: 20px;
+}
