@@ -3,6 +3,34 @@ img {
 
 }
 h2{
-  color: yellowgreen;
+  color: rgb(83, 33, 210);
+  font-style: italic;
+  font-size: 30px;
+  text-align: center;
+  border: 2px solid black;
+  padding: 40px;
+  background-color: rgb(239, 145, 145);
 }
 
+.subheader {
+  font-family: arial, serif;
+  font-size: 20px;
+  color: #ea0f0f;
+  text-align: center;
+  border: 5px double royalblue;
+  padding: auto;
+}
+
+#panda {
+  display: block; /* установим изображению свойство display: block; для корректного отображения отступов */
+  margin: 0 auto; /* отцентруем изображение по горизонтали */
+}
+ 
+.intro {
+  font-weight: bold;
+  font-style: italic;
+  font-size: 16px;
+  line-height: 1.5;
+  font-family: sans-serif;
+  text-indent: 2em;
+}
