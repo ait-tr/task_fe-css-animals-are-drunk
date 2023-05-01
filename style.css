@@ -50,4 +50,25 @@ footer {
   font-size: 0.8rem;
   margin-top: 10px;
 }
+.main-text {
+  display: flex;
+  background-color: rgb(5, 13, 62);
+  color: red;
+  width: 	380px;
+ padding: 10px;
+}
+#text-more {
+  display: flex;
+  background-color: rgb(5, 13, 62);
+  color: red;
+  width: 	380px;
+ padding: 10px;
+}
+.bald-idea {
+  display: flex;
+  background-color: rgb(5, 13, 62);
+  color: red;
+  width: 	380px;
+ padding: 10px;
+}
 
