@@ -22,6 +22,9 @@ main {
   margin: auto;
   padding: 10px;
 }
+#panda {
+  width: 70%;
+}
 .subheader {
   display:flex ;
   color:rgb(71, 67, 182);
