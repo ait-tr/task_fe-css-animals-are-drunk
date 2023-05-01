@@ -2,3 +2,12 @@ img {
   height: 400px;
 
 }
+.headline {
+  display: flex;
+  background-color: rgb(5, 13, 62);
+  color: red;
+  font-size: xx-large;
+  width: 	380px;
+  margin: auto;
+  padding: 10px;
+}
