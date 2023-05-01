@@ -21,3 +21,8 @@ img {
   width: 600px;
 
 }
+.intro {
+margin: 15px;
+background-color: bisque;
+color: blue;
+}
