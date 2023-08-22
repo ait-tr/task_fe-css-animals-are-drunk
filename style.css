@@ -2,3 +2,78 @@ img {
   height: 400px;
 
 }
+.headline{
+  text-align: center;
+  color: rgb(252, 0, 0);
+}
+.subheader{
+ text-align: center;
+ color: rgb(252, 0, 0);
+ font-weight: 700;
+ font-size: 33px;
+ font-style: italic;
+}
+
+#panda{
+
+  /* background-color: rgb(35, 178, 214); */
+  float:left ;
+  padding:10px;
+  border-width: 3px;
+  border-style: solid;
+  border-color: rgb(0, 0, 0);
+  margin: 0 35px 25px 0;
+}
+p{
+  color: rgb(244, 245, 247);
+}
+
+span{
+  font-weight:700;
+  font-style: italic;
+  color: rgb(33, 223, 128);
+}
+footer{
+ background-image: url(./jungli.jpg);
+ background-repeat: no-repeat;
+ color: rgb(255, 255, 255);
+ text-align: center;
+}
+a{
+  color: blue;
+  font-style: italic;
+}
+body{
+  line-height: 1.5;
+  font-size: 24px;
+  background-image: url(https://simplewine.ru/upload/iblock/1c0/1c0fc4f66b0465696ab000d9f822d296.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.intro{
+
+}
+.main-text{
+
+}
+.text-more{
+
+}
+.bald-idea{
+  text-align: center;
+  font-style: italic;
+  font-weight:bold;
+font-size: 30px;
+line-height: 1;
+color: rgb(92, 219, 67);
+}
+.main-text{
+
+}
+#idea3{
+
+}
+.endtext{
+
+}
