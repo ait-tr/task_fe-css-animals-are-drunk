@@ -1,4 +1,22 @@
 img {
-  height: 400px;
+  height: 200px;
 
+}
+
+body {
+  background-color: bisque;
+}
+
+.headline {
+color: blue;
+font-family: verdana;
+padding: 50px;
+font-size: larger;
+border: 5px solid aqua;
+}
+
+.subheader {
+  color: rgb(32, 16, 90);
+  border: 1px solid powderblue;
+  margin: 50px;
 }
