@@ -1,4 +1,41 @@
-img {
-  height: 400px;
+body {
+  background-color:
+    antiquewhite;
 
+  padding-bottom:
+    20 px;
+}
+
+.headline {
+  text-align: center;
+  font-size: 30px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.subheader {
+  font-style: italic;
+  text-align: center;
+  font-size: 20px;
+}
+#panda {
+  width: 300px;
+}
+.container {
+  text-align: center;
+}
+.intro {
+  background-color: lightcyan;
+  padding: auto;
+}
+.main-text {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: chocolate;
+  margin: 10px;
+}
+.bald-idea {
+  font-weight: 30;
+  margin: 20px;
+}
+.intro, .main-text, .bald-idea, #text-more {
+  margin-left: 20px;
 }
