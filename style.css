@@ -2,3 +2,55 @@ img {
   height: 400px;
 
 }
+
+h2 {
+  color: blue;
+  height: 200px;
+  text-align: center;
+  font-size: 4pc;
+}
+
+.subheader {
+  text-align: center;
+  color: red;
+  font-weight: bold;
+  font-size: 2pc;
+  background-color: rgb(215, 250, 248);
+}
+
+#panda {
+  margin: 0 0 0 35%;
+}
+
+.intro {
+  font-size: 2pc;
+}
+.main-text{font-weight: bold; font-size: 1.5pc;}
+#text-more{
+  text-align: center;
+  background-color: rgb(37, 171, 48);
+  font-size: 1.5pc;
+}
+.bald-idea{
+  font-size: 1.5pc;
+}
+p{
+  text-align: center;
+  background-color: gainsboro;
+  font-size: 1.5pc;
+}
+body{
+  background-color: azure;
+}
+div{
+  font-size: 2pc;}
+  h3{color: fuchsia;
+  text-align: center;
+font-size: 3pc;}
+.footer-element{
+  color: blue;
+  height: 200px;
+  text-align: center;
+  font-size: 4pc;
+}
+main{ font-size: 1.5pc;}
