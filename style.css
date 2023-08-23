@@ -1,4 +1,47 @@
-img {
+body{
+  background-color:azure;
+}
+#panda{
   height: 400px;
+}
+.headline{
+  color: blueviolet;
+  text-align: center;
+  font-style: italic;
+}
+.subheader{
+  color: red;
+  font-style: italic;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 
+}
+.intro{
+  color: orange;
+  font-style: italic;
+  font-weight: 700;
+}
+.main-text{
+color: violet;
+font-style: italic;
+  font-weight: 700;
+}
+#text-more{
+color: green;
+font-style: italic;
+  font-weight: 700;
+}
+.bald-idea{
+color: skyblue;
+font-style: italic;
+  font-weight: 700;
+}
+#idea3{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#endtext{
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.footer-element{
+  color:brown;
+  font-family: fantasy;
 }
