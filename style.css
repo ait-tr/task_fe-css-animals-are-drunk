@@ -1,4 +1,35 @@
-img {
-  height: 400px;
 
+.headline {
+  text-align: center;
+  font-size: 35px ;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.subheader {
+  font-style: italic;
+  text-align: center;
+  font-size: 20px;
+}
+.container {
+  text-align: center;
+}
+#panda {
+  width:350px ;
+  
+}
+.intro {
+  background-color: lightgrey;
+  
+}
+.main-text {
+  font-family: 'Times New Roman', Times, serif;
+  color: lightcoral;
+  margin: 20px;
+}
+.bald-idea {
+  font-weight: bold ;
+  margin: 30px;
+}
+.intro, .main-text, .bald-idea, #text-more {
+  margin-left: 20px;
 }
