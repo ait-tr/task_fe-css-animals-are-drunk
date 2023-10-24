@@ -8,9 +8,7 @@ h2.headline {
   background-color: black;
 }
 .subheader {
-  color: red;
   text-align: center;
-  background-color: black;
 }
 a {
   color: blue;
@@ -29,7 +27,7 @@ p.idea {
   color: chartreuse;
   background-color: saddlebrown;
 }
-p.main-text .idea {
+.subheader, .main-text .idea {
   color: chocolate;
   background-color: cyan;
 }
