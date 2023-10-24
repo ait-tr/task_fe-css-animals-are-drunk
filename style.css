@@ -1,4 +1,23 @@
 img {
   height: 400px;
+}
 
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c);  
+}
+
+.headline {
+  text-align: center;
+  font-size: large;
+}
+
+.subheader, .intro {
+  text-align: center;
+  font-style: italic;
+}
+
+hr {
+  border-style: double;
+  border-width: 0.08cm;
 }
