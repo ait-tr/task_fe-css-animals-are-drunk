@@ -1,4 +1,45 @@
-img {
-  height: 400px;
-
+.subheader{
+  color: blue;
+}
+.intro{
+  color: blue;
+}
+.main-text1 {
+  color:green;
+}
+.main-text2 {
+  color: green;
+}
+.main-text3 {
+  color: green;
+}
+.idea1{
+  color:green;
+}
+.main-text4 {
+  color: green;
+}
+.main-text5 {
+  color: green;
+}
+.main-text6 {
+  color: firebrick;
+}
+.main-text7 {
+  color: firebrick;
+}
+.main-text8 {
+  color: firebrick;
+}
+.main-text9 {
+  color: firebrick;
+}
+.main-text10 {
+  color: firebrick;
+}
+.main-text11 {
+  color: firebrick;
+}
+.footer-element{
+  color: gray;
 }
