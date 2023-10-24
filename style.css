@@ -1,4 +1,38 @@
 img {
   height: 400px;
-
+  background-color: turquoise;
+}
+h2.headline {
+  color: aqua;
+  text-align: center;
+  background-color: black;
+}
+.subheader {
+  color: red;
+  text-align: center;
+  background-color: black;
+}
+a {
+  color: blue;
+}
+p.intro {
+  background-color: yellowgreen;
+}
+p.main-text {
+  color: cornflowerblue;
+  background-color: wheat;
+}
+p.text-more {
+  color: crimson;
+}
+p.idea {
+  color: chartreuse;
+  background-color: saddlebrown;
+}
+p.main-text .idea {
+  color: chocolate;
+  background-color: cyan;
+}
+.footer-element {
+  color: violet;
 }
