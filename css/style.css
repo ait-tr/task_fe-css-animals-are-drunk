@@ -1,0 +1,53 @@
+/* * {
+outline: 1px solid red;
+} */
+
+html {
+    font-size: 14px;
+}
+
+p,
+h2,
+a {
+    font-family: 'Lora', serif;
+}
+
+/* main{
+font-family: Arial, Helvetica, sans-serif;
+} */
+
+
+main {
+    width: 800px;
+}
+
+.main-text {
+    font-size: 1.5rem;
+    line-height: 1.3em;
+
+}
+
+.headline {
+    font-size: 1.8rem;
+}
+
+img {
+    width: 400px;
+    text-align: center;
+}
+
+a {
+    color: hwb(207 28% 69%);
+    text-decoration: none;
+}
+
+.idea {
+    font-size: 1.7rem;
+    font-weight: bold;
+    border-left: solid 3px #eb0d39;
+    padding-left: 2rem;
+    display: block;
+
+}
+
+.text-more {}
